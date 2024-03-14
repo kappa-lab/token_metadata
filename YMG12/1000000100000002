@@ -1,8 +1,8 @@
 {
   "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
-  "external_url": "https://openseacreatures.io/3", 
-  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
-  "name": "Dave Starbelly",
+  "external_url": "https://github.com/kappa-lab/token_metadata", 
+  "image": "https://raw.githubusercontent.com/kappa-lab/token_metadata/main/YMG12/example.png", 
+  "name": "YMG12-1000000100000002",
   "attributes": [
       {
         "trait_type": "Base",
