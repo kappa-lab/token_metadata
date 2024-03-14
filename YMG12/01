@@ -1,12 +1,12 @@
 {
   "description": "YMG12-1 Token is sample", 
   "external_url": "https://github.com/kappa-lab/token_metadata", 
-  "image": "https://raw.githubusercontent.com/kappa-lab/token_metadata/main/YMG12/example.png", 
+  "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4gICA8cGF0aCBkPSJNMzAsMWg0MGwyOSwyOXY0MGwtMjksMjloLTQwbC0yOS0yOXYtNDB6IiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiLz4gICAgPHBhdGggZD0iTTMxLDNoMzhsMjgsMjh2MzhsLTI4LDI4aC0zOGwtMjgtMjh2LTM4eiIgZmlsbD0iI2EyMyIvPiAgICA8dGV4dCB4PSI1MCIgeT0iNTgiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiNGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjwhW0NEQVRBW1lNRzEyLTFdXT48L3RleHQ+IDwvc3ZnPg==", 
   "name": "YMG12-1　Token",
   "attributes": [
       {
       "trait_type": "transferable",
-      "value": true
+      "value": "true"
       }
   ]
   }
