@@ -1,7 +1,7 @@
 {
   "description": "YMG12-2 Token is sample", 
   "external_url": "https://github.com/kappa-lab/token_metadata", 
-  "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4gICA8cGF0aCBkPSJNMzAsMWg0MGwyOSwyOXY0MGwtMjksMjloLTQwbC0yOS0yOXYtNDB6IiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiLz4gICAgPHBhdGggZD0iTTMxLDNoMzhsMjgsMjh2MzhsLTI4LDI4aC0zOGwtMjgtMjh2LTM4eiIgZmlsbD0iI2EyMyIvPiAgICA8dGV4dCB4PSI1MCIgeT0iNjgiIGZvbnQtc2l6ZT0iNDgiIGZpbGw9IiNGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjwhW0NEQVRBWzQxMF1dPjwvdGV4dD4gPC9zdmc+", 
+  "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4gICA8cGF0aCBkPSJNMzAsMWg0MGwyOSwyOXY0MGwtMjksMjloLTQwbC0yOS0yOXYtNDB6IiBzdHJva2U9IiMwMDAiIGZpbGw9Im5vbmUiLz4gICAgPHBhdGggZD0iTTMxLDNoMzhsMjgsMjh2MzhsLTI4LDI4aC0zOGwtMjgtMjh2LTM4eiIgZmlsbD0iI2EyMyIvPiAgICA8dGV4dCB4PSI1MCIgeT0iNTgiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiNGRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPjwhW0NEQVRBW1lNRzEyLTJdXT48L3RleHQ+IDwvc3ZnPg==", 
   "name": "YMG12-2　Token",
   "attributes": [
           {
