@@ -1,0 +1,16 @@
+{
+  "description": "YMG12-2 Token is sample", 
+  "external_url": "https://github.com/kappa-lab/token_metadata", 
+  "image": "https://raw.githubusercontent.com/kappa-lab/token_metadata/main/YMG12/example.png", 
+  "name": "YMG12-2　Token",
+  "attributes": [
+      {
+        "trait_type": "Base",
+        "value": "Starfish"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Big"
+      }
+    ]
+  }
