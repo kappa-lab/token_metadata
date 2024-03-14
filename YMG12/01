@@ -5,12 +5,8 @@
   "name": "YMG12-1　Token",
   "attributes": [
       {
-        "trait_type": "Base",
-        "value": "Starfish"
-      },
-      {
-        "trait_type": "Eyes",
-        "value": "Big"
+      "trait_type": "transferable",
+      "value": true
       }
-    ]
+  ]
   }
